@@ -52,13 +52,4 @@ pig
      ├── pigx-monitor -- Spring Boot Admin监控 [5001]
      └── pigx-codegen -- 图形化代码生成[5003]
 	 
-```
-#### 提交反馈
-
-1. 欢迎提交 issue，请写清楚遇到问题的原因，开发环境，复显步骤。
-
-2. 不接受`功能请求`的 issue，功能请求可能会被直接关闭。  
-
-3. <a href="mailto:wangiegie@gmail.com">wangiegie@gmail.com</a>  
-4. <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zWEvg5">交流群 23754102</a>   
 

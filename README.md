@@ -62,15 +62,3 @@ pig
 3. <a href="mailto:wangiegie@gmail.com">wangiegie@gmail.com</a>  
 4. <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=5zWEvg5">交流群 23754102</a>   
 
-#### 开源协议
-![](http://a.pigx.top/20190201155120.png)
-
-
-#### 鸣谢 
-
-avue [@smallwei](https://avue.top)    
-mica-auto [@dreamlu](https://dreamlu.net)   
-bladex [@smallc](http://bladex.vip)  
-mybatis-plus [@青苗](http://mp.baomidou.com)     
-hutool [@路小磊](https://dreamlu.net)   
-
